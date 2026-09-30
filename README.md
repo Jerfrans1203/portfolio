@@ -14,3 +14,6 @@ Replace these placeholders in `index.html`:
 Profile photo is in `assets/profile.jpg`.
 
 The portfolio includes a simple local portfolio assistant; it does not require an API key or server.
+
+
+Updated: GitHub linked to https://github.com/Jerfrans1203. Profile image is available as both `profile.jpg` and `assets/profile.jpg` for reliable GitHub Pages loading.
